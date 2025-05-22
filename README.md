@@ -26,6 +26,7 @@ Sou Analista de Qualidade de Software com forte foco em garantir entregas eficie
 
 ### Rastreamento de Bugs & Gestão de Testes
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Qase](https://img.shields.io/badge/-Qase-000000?style=flat&logo=quora&logoColor=white) 
 
 ### Automação/Framework
 Automação de testes de aceitação (funcionais e sistema) de front-end (Web e Mobile) e back-end (API) com Robot Framework.
