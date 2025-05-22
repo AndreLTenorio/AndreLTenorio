@@ -1,4 +1,4 @@
-# 👨‍💻 QA Engineer Jr.
+# 👨‍💻 QA Engineer Analist
 
 ✨ Quem sou eu
 
