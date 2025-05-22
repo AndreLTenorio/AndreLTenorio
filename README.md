@@ -1,6 +1,30 @@
 # 👨‍💻 QA Engineer Jr.
 
-👋 Olá! Eu sou o André Luiz Tenório, um QA Engineer JR.  Profissional com mais de 10 anos de experiência em funções administrativas, atualmente atuo como Suporte Técnico e Atendimento Júnior na Audora Tecnologia e Serviços. Possuo habilidades no uso de ferramentas como Cypress, Selenium, Postman, Robot Framework e linguagens de programação como JavaScript e Python para a automação de testes. Também sou adepto de metodologias Scrum e Agile, promovendo a entrega contínua de valor e melhorias nos processos de qualidade.
+✨ Quem sou eu
+Sou Analista de Qualidade de Software com forte foco em garantir entregas eficientes, funcionais e com alta performance. Atuo com testes manuais e automação, participando ativamente do ciclo de desenvolvimento para assegurar a excelência dos produtos entregues. Tenho perfil analítico, resolutivo e colaborativo, sempre orientado a resultados e à melhoria contínua.
+
+✨ Minhas especialidades
+Tenho experiência em automação de testes com Cypress, validação de APIs com Postman, versionamento com Git e construção de testes end-to-end. Domino ferramentas de gestão como Jira e Trello e atuo com metodologias ágeis como Scrum e Kanban. Também aplico boas práticas de testes funcionais, regressivos e de performance em ambientes CI/CD.
+
+✨ Ferramentas e tecnologias
+
+* Automação de testes: Cypress
+* APIs: Postman, JSON
+* Versionamento: Git, GitHub, Git Bash
+* Gestão de tarefas: Jira, Trello
+* Testes: manuais, regressivos, integração, performance, caixa preta
+* Metodologias: Scrum, Kanban
+* DevOps: CI/CD com GitHub Actions
+* Linguagens: JavaScript, Python
+
+✨ Motivação
+Sou movido pelo desafio de entregar produtos funcionais e com a melhor experiência possível para o usuário. Gosto de atuar lado a lado com o time de desenvolvimento, colaborando para entregas ágeis, estáveis e de valor.
+
+✨ Objetivo
+Busco oportunidades como Analista de Qualidade de Software para colaborar com times engajados, desenvolver soluções eficazes e contribuir com entregas cada vez mais seguras e eficientes.
+
+🌐 Vamos nos conectar?
+Estou sempre aberto a evoluir, trocar experiências e gerar impacto positivo nos projetos em que atuo. Vamos conversar!
 
 ---
 
