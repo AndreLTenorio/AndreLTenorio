@@ -1,6 +1,7 @@
 # 👨‍💻 QA Engineer Jr.
 
 ✨ Quem sou eu
+
 Sou Analista de Qualidade de Software com forte foco em garantir entregas eficientes, funcionais e com alta performance. Atuo com testes manuais e automação, participando ativamente do ciclo de desenvolvimento para assegurar a excelência dos produtos entregues. Tenho perfil analítico, resolutivo e colaborativo, sempre orientado a resultados e à melhoria contínua.
 
 ---
