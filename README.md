@@ -9,11 +9,11 @@ Sou Analista de Qualidade de Software com forte foco em garantir entregas eficie
 ## 🛠 Habilidades e Ferramentas
 
 ### Linguagens de Programação
-Estudando>![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=java&logoColor=white)
+![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=java&logoColor=white)
 
-Estudando>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Estudando>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Ferramentas Utilizadas
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-14354C?style=flat&logo=robot-framework&logoColor=white)
@@ -39,8 +39,9 @@ Automação de testes de aceitação (funcionais e sistema) de front-end (Web e 
 ---
 
 ## 🎓 Educação
-![PÓS-GRADUAÇÃO EM ENGENHARIA DE SOFTWARE](https://img.shields.io/badge/-PÓS%20EM%20ENGENHARIA%20DE%20SOFTWARE-0052CC?style=flat&logo=visualstudiocode&logoColor=white)
-![ADMINISTRAÇÃO DE EMPRESAS](https://img.shields.io/badge/-ADMINISTRAÇÃO%20DE%20EMPRESAS-0A66C2?style=flat&logo=business&logoColor=white)
+Pós Graduando>![ENGENHARIA DE SOFTWARE](https://img.shields.io/badge/-ENGENHARIA%20DE%20SOFTWARE-0052CC?style=flat&logo=visualstudiocode&logoColor=white)
+
+Graduado>![ADMINISTRAÇÃO DE EMPRESAS](https://img.shields.io/badge/-ADMINISTRAÇÃO%20DE%20EMPRESAS-0A66C2?style=flat&logo=business&logoColor=white)
 
 ---
 
